@@ -1,7 +1,2 @@
-"# This is text project for school be-tester
+"# There are 11 testcases for school be-tester
 
-+ Show how git is working 
-+ Know main commands
-
-```bash
-$ git clone git@github..."
